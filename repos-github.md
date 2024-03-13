@@ -909,6 +909,7 @@
 - oyvindberg/bleep
 - pathikrit/better-files
 - pathikrit/dijon
+- patrickgoraft/hmda-platform
 - paulbutcher/ScalaMock
 - pauljamescleary/scala-pet-store
 - payalabs/scalajs-react-bridge
